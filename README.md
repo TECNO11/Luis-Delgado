@@ -1,2 +1,1 @@
-# Luis-Delgado
-Estudiante de ingeniería en sistemas comunicacionales
+# FISC-0746-estructuras-discretas-para-la-computacion
